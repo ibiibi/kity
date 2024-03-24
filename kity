@@ -1,0 +1,27 @@
+Gmail brute force attack 
+Let install it in termux or linux 
+For termux users 
+👇
+pkg update 
+pkg upgrade 
+pkg install python
+pkg install git 
+pip install instagram-private-api 
+pip install rich 
+git clone https://github.com/STARK-404/INSTA
+cd INSTA 
+chmod +x *
+python main.py
+
+For linux 
+👇
+apt update 
+apt upgrade 
+apt install python3 
+apt install git
+pip install rich 
+pip install instagram-private-api
+git clone https://github.com/STARK-404/INSTA/
+cd INSTA
+chmod +x *
+python main.py
